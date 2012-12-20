@@ -1,5 +1,7 @@
-# Erica Stockwell-Alpert and Max Novak
-# Midterm Project
+# Max Novak and Erica Stockewell-Alpert
+# release 2012
+# version 1.0
+# Auction generator
 import random
 from NodeClass import *
 from BidderGen import *
