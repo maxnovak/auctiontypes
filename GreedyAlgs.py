@@ -1,3 +1,8 @@
+# Max Novak
+# Release 2012
+# Version 1.0
+# implements naive greedy algorithms and greedy algorithm
+
 from NodeClass import *
 import random
 
