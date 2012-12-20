@@ -1,3 +1,7 @@
+# Erica Stockwell-Alpert
+# Release 2012
+# Version 1.0
+
 #Single Item bids
 import random
 
