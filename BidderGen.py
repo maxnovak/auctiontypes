@@ -1,3 +1,6 @@
+# Max Novak
+# release 2012
+# version 1.0
 #A random bidder generator that creates bidders in the form of nodes
 #and returns a list of bidders, with the user's bid appended at the end
 
