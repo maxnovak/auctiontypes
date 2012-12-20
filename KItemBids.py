@@ -1,3 +1,7 @@
+# Erica Stockwell-ALpert
+# Release 2012
+# Version 1.0
+
 #K-item bids
 import random
 
