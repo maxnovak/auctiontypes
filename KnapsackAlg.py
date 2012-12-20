@@ -1,3 +1,7 @@
+# Max Novak
+# Release 2012
+# Version 1.0
+
 #Implements the Knapsack Alg
 from GreedyAlgs import *
 
