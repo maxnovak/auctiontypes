@@ -1,3 +1,6 @@
+# Max Novak
+# Release 2012
+# Version 1.0
 #Nodes Class
 class Node:
     #When called will create a new Node with the bidders information
