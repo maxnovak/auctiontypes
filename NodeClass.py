@@ -25,17 +25,3 @@ class Node:
     #Getter for value / number of items
     def getValuePerItems(self):
         return self.valuePerItems
-
-'''  
-def main():
-    print("start")
-    test = Node(100, 1, 10)
-    
-    print(test.getValue())
-    print(test.getBidder())
-    print(test.getItems())
-
-''' 
-
-
-
